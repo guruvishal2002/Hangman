@@ -1,14 +1,14 @@
-Hangman Game:
+**Hangman Game**:
 Welcome to the Hangman Game! This is a simple command-line game where you have to guess the name of an animal letter by letter before you run out of attempts.
 
-Game Description:
+**Game Description**:
 The Hangman Game is a classic word-guessing game where the player must guess the letters of a hidden word within a certain number of attempts. In this version, the hidden words are all names of animals.
 
-List of Animals:
+**List of Animals**:
 The following animals are included in the game:
 tiger, lion, giraffe, zebra, dolphin, shark, elephant, rhino, cat, cheetah, dog, sheep, goat, fish, dragon, dinosaur, horse, cow, wolf, bear, raccoon, turtle, leopard, gorilla, donkey, camel, and octopus
 
-How to Play:
+**How to Play**:
 
 Start the Game: Run the script to start a new game.
 
@@ -24,15 +24,20 @@ Installation: To play the game, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/hangman-game.git
+git clone
+
+https://github.com/your-username/hangman-game.git
 
 Navigate to the project directory:
 
+```
 cd hangman-game
-
+```
 Run the game:
-
+```
 python hangman.py
-
+```
 Requirements:
+```
 Python 3.x
+```
