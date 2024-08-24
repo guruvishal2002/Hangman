@@ -48,7 +48,7 @@ The hidden words in the game are selected from the following list of animals:
 4. **Incorrect Guesses**: If the letter is not in the animal's name, you will lose one attempt. You have a limited number of attempts to guess the word correctly.
 5. **Win or Lose**: The game ends when you either guess the word correctly or run out of attempts.
 
-## 💻 Installation
+## Installation
 
 To play the game, follow these steps:
 
@@ -67,7 +67,7 @@ To play the game, follow these steps:
    python hangman.py
    ```
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.x
 
