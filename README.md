@@ -83,10 +83,14 @@ Correct! The word is now: t _ _ e _
 Enter a letter: r
 Correct! The word is now: t _ _ e r
 
+Enter a letter: i
+Correct! The word is now: t i _ e r
+
 Enter a letter: g
 Correct! The word is now: t i g e r
 
 Congratulations! You've guessed the word: tiger
+
 
 ```
 ## Requirements
