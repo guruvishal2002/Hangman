@@ -99,9 +99,9 @@ Congratulations! You've guessed the word: tiger
   
 **Error Handling**
 
-Invalid Input: The game will handle non-alphabetic characters by notifying the player and asking for a valid letter.
+**Invalid Input:** The game will handle non-alphabetic characters by notifying the player and asking for a valid letter.
 
-Repeated Guesses: If the player guesses the same letter more than once, the game will alert them that the letter has already been guessed.
+**Repeated Guesses:** If the player guesses the same letter more than once, the game will alert them that the letter has already been guessed.
 
-Case Sensitivity: The game will treat uppercase and lowercase letters as the same, allowing the player to input either.
+**Case Sensitivity:** The game will treat uppercase and lowercase letters as the same, allowing the player to input either.
 
