@@ -1,6 +1,6 @@
 
 
-# Hangman Game 🐾
+# Hangman Game 
 
 Welcome to the **Hangman Game**! This is a simple command-line game where you have to guess the name of an animal letter by letter before you run out of attempts.
 
@@ -66,8 +66,23 @@ To play the game, follow these steps:
    ```bash
    python hangman.py
    ```
+**Example**
+
+Welcome to Hangman! 
+Guess the animal: _ _ _ _ _
+
+Enter a letter: e
+Correct! The word is now: _ e _ _ _
+
+Enter a letter: t
+Incorrect! You have 5 attempts remaining.
 
 ## Requirements
 
 - Python 3.x
+  
+**Error Handling**
+Invalid Input: The game will handle non-alphabetic characters by notifying the player and asking for a valid letter.
+Repeated Guesses: If the player guesses the same letter more than once, the game will alert them that the letter has already been guessed.
+Case Sensitivity: The game will treat uppercase and lowercase letters as the same, allowing the player to input either.
 
