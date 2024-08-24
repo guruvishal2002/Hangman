@@ -67,16 +67,28 @@ To play the game, follow these steps:
    python hangman.py
    ```
 **Example**
-
+```
 Welcome to Hangman! 
 Guess the animal: _ _ _ _ _
 
 Enter a letter: e
-Correct! The word is now: _ e _ _ _
+Correct! The word is now: _ _ _ e _
 
-Enter a letter: t
+Enter a letter: a
 Incorrect! You have 5 attempts remaining.
 
+Enter a letter: t
+Correct! The word is now: t _ _ e _
+
+Enter a letter: r
+Correct! The word is now: t _ _ e r
+
+Enter a letter: g
+Correct! The word is now: t i g e r
+
+Congratulations! You've guessed the word: tiger
+
+```
 ## Requirements
 
 - Python 3.x
